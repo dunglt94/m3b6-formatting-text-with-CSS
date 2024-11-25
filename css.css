@@ -1,0 +1,29 @@
+h1 {
+    margin-bottom: 0;
+}
+
+hr {
+    margin: 0;
+}
+
+p.wiki {
+    margin: 0;
+}
+
+p.para {
+    text-align: justify;
+    text-indent: 50px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.country_name {
+    font-weight: bold;
+}
+
+.mark {
+    font-size: 0.8em;
+    vertical-align: super;
+}
